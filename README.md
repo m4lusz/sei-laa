@@ -7,11 +7,10 @@
     <p class="descricao__texto">2D 2024 Maria Luiza</p>
   </div>
 <section class="container secundario">
-        <img src="img/Plataformas.png" alt="Um monitor e um celular com a alura plus aberta" class="secundario__imagem">
+      
         <div class="container__descricao">
-            <h2 class="descricao__titulo">Assista do seu jeito</h2>
-            <p class="descricao__texto">Aproveite a tela grande da TV ou assista no tablet, laptop, celular e outros
-                aparelhos. Nossa seleção de cursos não para de crescer.</p>
+            <h2 class="descricao__titulo">Sou uma ótima aluna</h2>
+            <p class="descricao__texto">Obrigada por ver até aqui.</p>
         </div>
 </section>
   .secundario__imagem {
