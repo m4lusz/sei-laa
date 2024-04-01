@@ -6,8 +6,7 @@
     <h2 class="descricao__titulo">Mereço nota máxima</h2>
     <p class="descricao__texto">2D 2024 Maria Luiza</p>
   </div>
-<section class="container secundario">
-      
+<section class="container secundario">     
         <div class="container__descricao">
             <h2 class="descricao__titulo">Sou uma ótima aluna</h2>
             <p class="descricao__texto">Obrigada por ver até aqui.</p>
