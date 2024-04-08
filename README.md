@@ -16,6 +16,7 @@
 <li>eu sou incrivel</li>
 <li>nunca atrapalho as aulas</li>
 
+![10108127](https://github.com/m4lusz/sei-laa/assets/132919611/6784c2c0-3ba2-4d8b-a235-cce38edfd676)
 
 
 
