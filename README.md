@@ -9,9 +9,10 @@
 <section class="container secundario">     
         <div class="container__descricao">
             <h2 class="descricao__titulo">Sou uma ótima aluna</h2>
-            <p class="descricao__texto">Obrigada por ver até aqui.</p>
+            <p class="descricao__texto">Mereço nota máxima.</p>
         </div>
 </section>
 <li>eu fiz todas as coisas</li>
 <li>eu sou incrivel</li>
 <li>nunca atrapalho as aulas</li>
+![Texto Alternativo]file:///home/escola/Downloads/hand-311121_1280.webp
