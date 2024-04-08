@@ -12,4 +12,6 @@
             <p class="descricao__texto">Obrigada por ver até aqui.</p>
         </div>
 </section>
-
+<li>eu fiz todas as coisas</li>
+<li>eu sou incrivel</li>
+<li>nunca atrapalho as aulas</li>
