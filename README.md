@@ -15,5 +15,7 @@
 <li>eu fiz todas as coisas</li>
 <li>eu sou incrivel</li>
 <li>nunca atrapalho as aulas</li>
-![Uploading 10108127.jpg…]()
+![Texto Alternativo](10170812)!
+
+
 
