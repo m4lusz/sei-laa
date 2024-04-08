@@ -12,4 +12,10 @@
             <p class="descricao__texto">Obrigada por ver até aqui.</p>
         </div>
 </section>
- 
+.container__botao {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+}
